@@ -1,5 +1,5 @@
 print("Message 1 :Hello from Jenkins! Keep learning! :) ")
-print("Message 2: Hello from Jenkins!, if you can see this, then consider webhook working fine")
+print("Message 2: Hello from Jenkins!, if you can see this, then consider CI Pipeline working fine")
 print("NOTE: If you can successfully see above message 1 & 2 in Jenkins console, then this means that CI pipeline with jenkins and github is working fine")
 print("The below messages are for reference that what I did to setup auto build functionality")
 print("installed ngrok to make connection from localhost to github to jenkins, but there were some issues")
