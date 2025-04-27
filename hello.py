@@ -3,3 +3,4 @@ print("Hello from Jenkins!, if you can see this, then consider webhook working f
 print("installed ngrok to make connection from localhost to github to jenkins")
 print("csrf issue issue resolved")
 print("error 404 resolved")
+print("NOTE: auto build functionality would be the next step in this")
